@@ -1,6 +1,11 @@
 # Fortnite-External-Drivers-Leaked
 Fortnite External Drivers Leaked
 
-To run the driver click run.bat and only works for Windows 10 1909
+How to run driver:
+
+1. Make sure you are on Windows 10 1909
+2. Click run.bat to load driver
+3. Run your skidded External
 
 Discord: dsc.lol/shotfn
+
